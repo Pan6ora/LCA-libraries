@@ -63,3 +63,8 @@ bw2regional is a separate library that extends the Brightway LCA framework to do
 <br> `Python` `regionalized LCA` ` Brightway`
 
 This package provides the AWARE regionalized LCIA method in brightway and brightway2-regional. Monthly characterization factors are currently not imported.
+
+**[pylcaio](https://github.com/MaximeAgez/pylcaio)**
+<br> `Python` `hybridization` `Brightway`
+
+An object class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
